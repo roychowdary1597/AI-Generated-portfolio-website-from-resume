@@ -3,13 +3,14 @@
 An end-to-end **AI-powered application** that converts a resume (PDF or DOCX) into a **production-ready, FAANG-style portfolio website**.  
 The system automates document parsing, prompt engineering, frontend code generation, and deployment using **Streamlit and LangChain**.
 
-## 🚀 AI Mentor Chatbot – Demo
+## Demo Video
 
-## Project Demo
+Play the demo directly in the README (served from this repo):
 
-[![Watch the demo video](assets/thumbnail.png)](https://github.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/compressed-video.mp4)
-
-*Click the image to play the demo video.*
+<video controls width="720" poster="https://raw.githubusercontent.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/e0c6d6cf4af19646a4ec23a90dc74393ead408c7/compressed-video.mp4">
+  <source src="https://raw.githubusercontent.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/e0c6d6cf4af19646a4ec23a90dc74393ead408c7/compressed-video.mp4" type="video/mp4">
+  Your browser does not support the video tag. Click to download: [compressed-video.mp4](https://github.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/blob/e0c6d6cf4af19646a4ec23a90dc74393ead408c7/compressed-video.mp4)
+</video>
 
 
 
