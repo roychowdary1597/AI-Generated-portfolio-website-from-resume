@@ -5,10 +5,12 @@ The system automates document parsing, prompt engineering, frontend code generat
 
 ## 🚀 AI Mentor Chatbot – Demo
 
-![Demo Preview](assets/demo.gif)
+## Project Demo
 
-▶ Full Demo Video:  
-https://github.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/compressed-video.mp4
+[![Watch the demo video](assets/thumbnail.png)](https://github.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/compressed-video.mp4)
+
+*Click the image to play the demo video.*
+
 
 
 ---
