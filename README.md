@@ -3,6 +3,14 @@
 An end-to-end **AI-powered application** that converts a resume (PDF or DOCX) into a **production-ready, FAANG-style portfolio website**.  
 The system automates document parsing, prompt engineering, frontend code generation, and deployment using **Streamlit and LangChain**.
 
+## 🚀 AI Mentor Chatbot – Demo
+
+![Demo Preview](assets/demo.gif)
+
+▶ Full Demo Video:  
+https://github.com/username/repository/assets/12345678/demo.mp4
+
+
 ---
 
 ## 📌 Overview
