@@ -8,7 +8,7 @@ The system automates document parsing, prompt engineering, frontend code generat
 ![Demo Preview](assets/demo.gif)
 
 ▶ Full Demo Video:  
-https://github.com/username/repository/assets/12345678/demo.mp4
+https://github.com/roychowdary1597/AI-Generated-portfolio-website-from-resume/compressed-video.mp4
 
 
 ---
